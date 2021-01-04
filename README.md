@@ -21,20 +21,20 @@ Bobot Kriteria
 | C5. | 2 | 
 | Total | 10 | 
 
-Perhitungan Bobot kriteria
-Cn = nilai Cn/Total kriteria 
+Perhitungan Bobot kriteria\
+Cn = nilai Cn/Total kriteria \
 
-contoh perhitungan
-C1 = 3/10 = 0,3
-C2 = 3/10 = 0,3
-C3 = 1/10 = 0,1
+contoh perhitungan\
+C1 = 3/10 = 0,3\
+C2 = 3/10 = 0,3\
+C3 = 1/10 = 0,1\
 dst
 
-Diperoleh :
-C1 = 0,3
-C2 = 0,3
-C3 = 0,1
-C4 = 0,1
+Diperoleh :\
+C1 = 0,3\
+C2 = 0,3\
+C3 = 0,1\
+C4 = 0,1\
 C5 = 0,2
 
 ---
@@ -100,20 +100,20 @@ setiap kriteria
 
 ---
 ### Menghitung nilai vektor S
-RUMUS
+RUMUS\
 Sn = alternatif1 pangkat W1 x alternatif2 pangkat W2 x ... x alternatif5 pangkat W5
 
-S1 (Azmi) = (0.50^0,3) (0.75^0,3) (0.25^0,1)(0.25^0,1)(0.75^0,2) = 0,533
-S2 = (0.75^0,3) (1^0,3) (0.75^0,1) (0.25^0,1) (0.75^0,2) = 0,630
-S3 = (1^0,3) (0.75^0,3) (0.75^0,1) (0.50^0,1) (0.25^0,2) = 0,733
+S1 (Azmi) = (0.50^0,3) (0.75^0,3) (0.25^0,1)(0.25^0,1)(0.75^0,2) = 0,533 \
+S2 = (0.75^0,3) (1^0,3) (0.75^0,1) (0.25^0,1) (0.75^0,2) = 0,630 \
+S3 = (1^0,3) (0.75^0,3) (0.75^0,1) (0.50^0,1) (0.25^0,2) = 0,733 \
 Total S = S1+S2+S3 = 1,896
 ### Menghitung nilai vektor V
-RUMUS
+RUMUS\
 Vn = Sn/Total S
 
-V1 = 0,533/1,896 = 0,281  
-V2 = 0,630/1,896 = 0,332 
-V3 = 0,733/1,896 = 0,386 
+V1 = 0,533/1,896 = 0,281 \ 
+V2 = 0,630/1,896 = 0,332 \
+V3 = 0,733/1,896 = 0,386 \
 
 #### HASIL 
 | No.  | Nama Karyawan  | Nilai |
